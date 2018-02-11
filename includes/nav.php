@@ -13,9 +13,9 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="lubei.html">Charlie</a></li>
-        <li><a href="mfujimak.html">Masaru</a></li>
-        <li><a href="xwang.html">Valerie</a></li>
+        <li><a href="lubei.php">Charlie</a></li>
+        <li><a href="mfujimak.php">Masaru</a></li>
+        <li><a href="xwang.php">Valerie</a></li>
       
       </ul>
     </div>
