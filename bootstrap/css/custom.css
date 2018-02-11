@@ -1,3 +1,7 @@
+html,body{
+    font-family: 'Montserrat';
+}
+
 .is-current {
       background-color: #adccff;
       color: white;

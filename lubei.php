@@ -1,6 +1,9 @@
 <!doctype html>
 <html lang="en">
 <head>
+  <?php 
+  include'includes/links.php';
+  ?>
 	<meta charset="utf-8">
 	<title>Cherry Lu</title>
 </head>
@@ -8,6 +11,10 @@
 
 
 <body>
+    <?php
+    include 'includes/nav.php';
+    ?>
+
 	<h1>Cherry Lu - Coder</h1>
 
 	<h2>About me</h2>
@@ -35,6 +42,9 @@
   </p>
 
   
-
+    <?php
+    include 'includes/footer.php';
+    include 'includes/scripts.php';
+    ?>
 </body>
 </html>

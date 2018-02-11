@@ -14,7 +14,29 @@
     include 'includes/nav.php';
     ?>
 
-	<h1> Home page</h1>
+    <div class="jumbotron">
+	<div class="container">
+		<h1>Team Tokyo</h1>
+		<button class="btn btn-primary btn-lg indexbt" data-toggle="collapse" data-target="#cl"" >Charlie Lu</button>
+		<button class="btn btn-primary btn-lg indexbt" data-toggle="collapse" data-target="#mf"" >Masaru Fujimaki</button>
+		<button class="btn btn-primary btn-lg indexbt" data-toggle="collapse" data-target="#vw"" >Valerie Wang</button>
+		<br>
+	</div>
+	</div>
+
+	<div id="cl" class="container collapse">
+
+	</div>
+
+	<div id="mf" class="container collapse">
+
+	</div>
+
+	<div id="vw" class="container collapse">
+
+	</div>
+
+	
 	
   
 
