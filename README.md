@@ -1,2 +1,8 @@
-# assignment-2-team-portfolio-website-tokyo
-assignment-2-team-portfolio-website-tokyo created by GitHub Classroom
+# Team Tokyo
+##CSC 174 Assignment 2 - Team Portfolio
+
+Masaru Fujimaki - IA
+Xuanyang Wang - Design Artist
+Bei Lu - Coder
+
+

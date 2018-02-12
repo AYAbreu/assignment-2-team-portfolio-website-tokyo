@@ -11,13 +11,20 @@
 
 
 <body>
-    <?php
-    include 'includes/nav.php';
-    ?>
+     <div class=headerbox>
+  <header>
+    <h1>CHARLIE LU</h1>
+    <span>Coder</span>
+  </header>
 
-	<h1>Cherry Lu - Coder</h1>
+  <?php
+  include "includes/nav.php";
+  ?>
+  </div>
 
-	<h2>About me</h2>
+  <div class="container"> 
+  <img class="portrait" src="images/charlie.jpg" alt="Charlie">
+	<h2>About</h2>
 
   <p>Cherry studies in University of Rochester, double majoring in psychology and computer science. During her time in Rochester, she passionately devotes to social & developmental psychology and human computer interaction. Her interest in developmental psychology led her to contribute in the university kid's lab, while her knowledge in computer science helps her come up with solutions to meliorate the behavior coding system in psychology researches. She also has research experience in Zhejiang University , where she assisted similar developmental psychology researches on children's temperament. Charlie is enthusiastic about child development and hopes to turn this passion into a career.
   </p>
@@ -32,15 +39,16 @@
   </p>
 
   <h2>Education</h2>
-
-  <p> 
-  	<ul>Majors: Psychology and Computer science</ul>
-  	<li>GPA 3.80 OUT OF 4.0 </li>
-  	<li>Psychology Major GPA 3.85 out of 4.00</li>
-  	<li>Computer Science Major GPA 3.81 out of 4.00</li>
-  	<li>Dean's List All Eligible Semesters</li>
-  </p>
-
+  <span>Majors: Psychology and Computer science</span>
+  	<ul>
+  	<li>Applied Statistics to social science</li>
+  	<li>Exploring research in family psychology</li>
+  	<li>Intro to psychology</li>
+  	<li>Theories of personality and psychotherapy</li>
+    <li>Neural foundations of behavior</li>
+    <li>Research Method in Psychology</li>
+    </ul>
+</div>
   
     <?php
     include 'includes/footer.php';
