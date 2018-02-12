@@ -7,18 +7,27 @@
 	<meta charset="utf-8">
 	<title>Valerie Wang</title>
 </head>
-
+  
 
 
 <body>
-    <?php
-    include 'includes/nav.php';
-    ?>
-	<h1>Valerie Wang - Designer</h1>
 
-	<h2>About me</h2>
+  <div class=headerbox>
+  <header>
+    <h1>VALERIE WANG</h1>
+    <span>Design Artist</span>
+  </header>
 
-  <p>Hi! My name is Valerie (Xuanyang) Wang. I am double majoring in computer science and business with a cluster in studio arts, and I am from class of 2020. My strength lies in digital photography, graphic design and marketing. I have programming experiences with Java and HTML. Food and photography are the top two things that I love.</p>
+  <?php
+  include "includes/nav.php";
+  ?>
+  </div>
+   
+	<div class="container">
+
+	<h2>About</h2>
+
+  <p>Hi! My name is Valerie (Xuanyang) Wang. I am double majoring in computer science and business with a cluster in studio arts, and I am from class of 2020. My strength lies in digital photography, graphic design and marketing. I have programming experiences with Java and HTML. I am capable of providing innovative designs and solutions.</p>
   
   <h2>Experience</h2>
 
@@ -27,18 +36,16 @@
 
   <h2>Education</h2>
 
-  <p>
-    <ul> Majors: Computer Science and Business</ul>
+    <span>Majors: Computer Science and Business</span>
+    <ul>
       <li> Introduction to Photography</li>
       <li> Advanced Front End Web Design</li>
       <li> Intro to Computer Science</li>
-      <li>  Data Structures and Alogrithms</li>
+      <li> Data Structures and Alogrithms</li>
       <li> Financial Accounting</li>
       <li> Principles of Marketing</li>
-    
-
-  </p>
-
+    </ul>
+</div>
   
 <?php
     include 'includes/footer.php';

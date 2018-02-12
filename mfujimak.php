@@ -11,12 +11,18 @@
 
 
 <body>
-    <?php
-    include 'includes/nav.php';
-    ?>
-	<h1>Masaru Fujimaki - AI</h1>
+     <div class=headerbox>
+  <header>
+    <h1>MASARU FUJIMAKI</h1>
+    <span>Information Architect</span>
+  </header>
 
-	<h2>About me</h2>
+  <?php
+  include "includes/nav.php";
+  ?>
+  </div>
+  <div class="container"> 
+	<h2>About</h2>
 
   <p> Born in Ibaraki, Japan (city next to Tokyo), and spent first 7 years of my life there. Then, I moved to Shanghai, China. Interesting fact about me is that I am half Japanese and half Chinese so I can speak three languages!. I play tennis for Shanghai team and UofR and I love to play sports. 
   </p>
@@ -28,17 +34,16 @@
 
   <h2>Education</h2>
 
-  <p>
-    <ul>Majors: Financial Economics and Statistics</ul>
+    <span>Majors: Financial Economics and Statistics</span>
+    <ul>
     <li>Macroeconomics</li>
     <li>Investments</li>
     <li>Financial Accounting</li>
     <li>Econometrics</li>
     <li>Financial mathematics</li>
     <li>Economics of globalization</li>
-    
-  </p>
-
+    </ul>
+</div>
   
     <?php
     include 'includes/footer.php';

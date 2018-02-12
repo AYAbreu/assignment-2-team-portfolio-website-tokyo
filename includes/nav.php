@@ -1,6 +1,6 @@
 
 <!-- Navigation bar -->
-<nav class="navbar navbar-inverse navbar-static-top">
+<!-- <nav class="navbar navbar-inverse navbar-static-top">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -20,6 +20,17 @@
       </ul>
     </div>
   </div>
+</nav> -->
+
+<nav class="menu">
+    <div>
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="lubei.php">Charlie</a></li>
+        <li><a href="mfujimak.php">Masaru</a></li>
+        <li><a href="xwang.php">Valerie</a></li>
+      </ul>
+    </div>
 </nav>
 
 <!-- End of Navigation bar -->

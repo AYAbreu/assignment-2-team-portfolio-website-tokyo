@@ -1,0 +1,183 @@
+/*html,body{
+    font-family: 'Montserrat';
+}
+
+.is-current {
+      background-color: #adccff;
+      color: white;
+  }
+
+  .navbar-nav a{
+    color: red;
+  }
+
+.navbar{
+	margin-bottom: 0px;
+}
+
+/*button styles*/
+/*.btn-primary{
+	margin-bottom: 5px;
+	margin-right: 10px;
+    margin-top:10px;
+}
+
+.indexbt{
+     color: #fff;
+    background-color: transparent;
+    border-color: white;
+}
+
+.indexbt:hover {
+    color: #adccff;
+    background-color: white;
+    border-color: white;
+}
+
+.btn-success{
+	margin: 10px 10px;
+}
+
+nav bar styles
+.navbar-inverse {
+    background: #2E2F31;
+    border: 0;
+}
+
+.navbar-inverse .navbar-nav li a {
+    font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+    background: #adccff;
+}
+
+
+
+.jumbotron {
+    background: #adccff;
+	text-align: center;
+    color: white;
+}
+
+
+
+.list-group{
+    margin-top: 10px;
+}*/
+
+/*footer style*/
+
+/*html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px; 
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.img-responsive{
+  margin-top: 10px;
+}
+
+.indexbt{
+     color: #fff;
+    background-color: transparent;
+    border-color: white;
+}
+
+.indexbt:hover {
+    color: #adccff;
+    background-color: white;
+    border-color: white;
+}
+
+.pcontainer{
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}*/
+
+header {
+  color: white;
+  text-align: center;
+  margin: 0px;
+  background-color: #B4C6DB;
+  padding: 30px 0px 30px 0px; 
+}
+
+h1, h2 {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+body {
+  line-height: 25px;
+  color: rgb(76,76,76);
+}
+
+figcaption {
+  font-style: italic;
+  font-size: small;
+}
+
+figure {
+  margin: 20px;
+}
+
+footer { 
+  color: rgb(147, 147, 147);
+  line-height: 40px;
+  height: 40px;
+  text-align: center;
+    width: 100%; 
+  background-color: rgb(244,245,247);
+}
+
+.portrait { 
+  float: right; 
+  margin: 20px;
+}
+
+.headerbox {
+  background-color: #B4C6DB;
+  padding-bottom: 30px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 70%;
+  max-width: 960px;
+}
+
+.image-holder { 
+  text-align: center; 
+}
+
+.flex-display {
+  display: flex;
+}
+
+.intro1, .intro2, .intro3 { padding: 50px; }
+
+.intro1 { border-right: 1px, solid, rgb(76,76,76)}
+
+.intro3 {border-left: 1px, solid, rgb(76,76,76)}
+
+.slides { padding-top: 50px; }
+
+
+
+
