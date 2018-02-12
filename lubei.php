@@ -5,7 +5,7 @@
   include'includes/links.php';
   ?>
 	<meta charset="utf-8">
-	<title>Cherry Lu</title>
+	<title>Charlie Lu</title>
 </head>
 
 
@@ -26,7 +26,7 @@
   <img class="portrait" src="images/charlie.jpg" alt="Charlie">
 	<h2>About</h2>
 
-  <p>Cherry studies in University of Rochester, double majoring in psychology and computer science. During her time in Rochester, she passionately devotes to social & developmental psychology and human computer interaction. Her interest in developmental psychology led her to contribute in the university kid's lab, while her knowledge in computer science helps her come up with solutions to meliorate the behavior coding system in psychology researches. She also has research experience in Zhejiang University , where she assisted similar developmental psychology researches on children's temperament. Charlie is enthusiastic about child development and hopes to turn this passion into a career.
+  <p>Charlie studies in University of Rochester, double majoring in psychology and computer science. During her time in Rochester, she passionately devotes to social & developmental psychology and human computer interaction. Her interest in developmental psychology led her to contribute in the university kid's lab, while her knowledge in computer science helps her come up with solutions to meliorate the behavior coding system in psychology researches. She also has research experience in Zhejiang University , where she assisted similar developmental psychology researches on children's temperament. Charlie is enthusiastic about child development and hopes to turn this passion into a career.
   </p>
   
   <h2>Experience</h2>
