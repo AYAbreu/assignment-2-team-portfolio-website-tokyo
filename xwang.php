@@ -25,6 +25,8 @@
    
 	<div class="container">
 
+  <img class="portrait" src="images/valerie.jpg" alt="Valerie">
+
 	<h2>About</h2>
 
   <p>Hi! My name is Valerie (Xuanyang) Wang. I am double majoring in computer science and business with a cluster in studio arts, and I am from class of 2020. My strength lies in digital photography, graphic design and marketing. I have programming experiences with Java and HTML. I am capable of providing innovative designs and solutions.</p>

@@ -23,24 +23,24 @@
   	<div class="container">	
   		<div class="slides">
   		<ul class="rslides">
-		  <li><img src="images/charlie.jpg" alt=""></li>
-		  <li><img src="images/masaru.jpg" alt=""></li>
-		  <li><img src="images/valerie.jpg" alt=""></li>
+		  <li><img src="images/charlie.jpg" alt="Charlie"></li>
+		  <li><img src="images/masaru.jpg" alt="Masaru"></li>
+		  <li><img src="images/valerie.jpg" alt="Valerie"></li>
 		</ul>
 		</div>
 
   		<div class="flex-display">
-	  		<div class=intro1>
+	  		<div class=intro>
 	  			<h2>Charlie Lu</h2>
 	  			<span><em>Coder</em></span>
-	  			<p>I choose to be the coder for the first assignment because it was my least confident role.</p>
+	  			<p>I choose to be the coder for the first assignment because it was my least confident role. </p>
 	  		</div>
-	  		<div class=intro2>
+	  		<div class=intro>
 	  			<h2>Masaru Fujimaki</h2>
 	  			<span><em>Information Architect</em></span>
 	  			<p>Based on the experience that I had in the previous internship project, I believe that I am able to perform well as an information architect.</p>
 	  		</div>
-	  		<div class=intro3>
+	  		<div class=intro>
 	  			<h2>Valerie Wang</h2>
 	  			<span><em>Design Artist</em></span>
 	  			<p>I choose to become a Design Artist not only to make our website pretty, but to help the team make smarter decisions.</p>

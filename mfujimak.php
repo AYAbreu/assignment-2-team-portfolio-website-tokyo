@@ -21,7 +21,10 @@
   include "includes/nav.php";
   ?>
   </div>
+
   <div class="container"> 
+
+  <img class="portrait" src="images/masaru.jpg" alt="Masaru">
 	<h2>About</h2>
 
   <p> Born in Ibaraki, Japan (city next to Tokyo), and spent first 7 years of my life there. Then, I moved to Shanghai, China. Interesting fact about me is that I am half Japanese and half Chinese so I can speak three languages!. I play tennis for Shanghai team and UofR and I love to play sports. 
