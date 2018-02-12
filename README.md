@@ -5,7 +5,8 @@ Masaru Fujimaki - IA
 Xuanyang Wang - Design Artist  
 Bei Lu - Coder  
 
-IA: Masaru Fuijimaki
+IA: Masaru Fuijimaki 
+I re-architected the content following the principles of information architect. For exmaple, I decided the domain and structure for 4 web pages and also I chose appripriate choreography for the contents. I created one "home" page and three pages which representing each team members.  
 
 Design Artist: Xuanyang Wang (Valerie)
 Basically, I implemented CSS for the main content and navigation bar after the IA and Coder have constructed the structure for the portfolio website. I made some adjustments to the content to make the website look more consistent. Also, I added photos of our team members to each page and implemented a new JS slideshow plugin on the home page. I changed the CSS and bootstrap that the Coder had included in the repository before to satisfy the basic design principles as required.
