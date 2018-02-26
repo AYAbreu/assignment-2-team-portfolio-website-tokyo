@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<!-- YW: We will be using "Z" pattern -->
-<!-- YW: Font Suggestion - I think it is good to use modern or computer-like pixelated
-fonts since all the students share one common thing, being a CS major. -->
-<html lang="en">
-  <head>
-    <!-- YW: CSS Links -->
-    <meta charset="utf-8">
-  	<title>Women In CS - Fiona</title>
-  </head>
-  <body>
+<?php $currentTitle = 'FIONA'; include "inc/html-top.inc"; ?>
+  <?php include "inc/nav.inc"; ?>
     <header>
       <h1>Fiona Johns</h1>
     </header>
@@ -33,7 +24,7 @@ fonts since all the students share one common thing, being a CS major. -->
       </aside>
 
     </div><!--div.container-->
-    <!-- YW: JS Links -->
+    <?php include "inc/scripts.inc"; ?>
     <!-- YW: Footer -->
   </body>
 </html>
