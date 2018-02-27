@@ -12,12 +12,9 @@
             <div class="grid-container">
                 <div class="hero">
                     <div class="about">
+                        <img src="images/conley.png" alt="Conley">
                         <div class = "article"> 
                             <h2>Education</h2>
-                                      <figure>
-                                         <div class="clearfix">
-                                         <img class = "img" src="images/conley.png" alt="Conley" width="180" height="380">
-                                      </figure>
                             <p>My academic career has had an interesting change of pace. I came in as a freshman with the intent of majoring in Digital Media Studies and Environmental Science. As a result, I spent my freshman year taking mainly Biology and Chemistry courses. The spring semester of my freshman year I took CSC 161 in order to fulfill a Digital Media Studies Requirement; this was my first introduction programming. Though I went in with the attitude that I was going to hate it, I ended up falling in love with programming and ended up switching my second major to Computer Science. I have since taken fundamental courses like Computation and Formal Systems in addition to courses like Mobile App Development and Web Programming. One of my favorite courses in Computer Science so far has been Video Game Design where I had the opportunity to apply my computer science skills to a new passion. Outside of computer science, I find myself drawn to art courses in order to complete my Digital Media Studies degree. One of my favorite courses has been New Media and Emerging Practices, were I got to continue my exploration of digital art. I have always had a passion for digital art and design, and am always looking for new was to combine this passion with my love for computer science.</p>
                           </div>
                     </div>
