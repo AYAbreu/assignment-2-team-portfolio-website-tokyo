@@ -134,21 +134,12 @@ img {
     padding: 10px;
 }
 
-.slider{
-	float: left;
-	margin: 100px auto;
-	animation: 10s infinite;
-}
-@keyframes slide{
-	30%{
-		background: "images/conley.png;";
-	}
-	60%{
-		background: "images/fiona.png;";
-	}
-	90%{
-		background: "images/xiao.png;";
-	}
+.container {
+    width: 60%;
+    background-color: #FDE7CC;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 /*	For my footer */
@@ -168,6 +159,13 @@ img {
 .navbar-brand{
   font-family: 'Satisfy', cursive;
 }
+
+.slider{
+  margin: 0 auto;
+  width: 400px;
+  padding: 20px;
+}
+
 
 .user {
   width: 400px;
