@@ -124,8 +124,8 @@ footer {
 }
 
 img {
- 	float: left;
-    box-shadow: 0 0 0 5px #FFFFFF, 0 0 0 7px #B0F77B;
+    float: left;
+    box-shadow: 0 0 0 2px #FFFFFF, 0 0 0 4px #B0F77B;
     margin: auto;
     width: 240px;
     padding: 10px;
@@ -137,6 +137,12 @@ img {
     border-radius: 15px;
     margin: 0 auto;
     padding: 20px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 /*	For my footer */
