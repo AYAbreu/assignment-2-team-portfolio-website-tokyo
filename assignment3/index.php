@@ -1,14 +1,14 @@
 <?php $currentTitle = 'HOME'; include'inc/html-top.inc';?>
-  <header>
-  <?php include'inc/nav.inc';?>
-</header>
+
+
 
     <div class=headerbox>    
       <header>
         <h1>Women In Computer Science</h1>
         <h5>Team Tokyo Assignment 03</h5>
       </header>
-
+      
+  <?php include'inc/nav.inc';?>
 
    </div>
     <?php include'includes/nav.inc';?>

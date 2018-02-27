@@ -1,7 +1,5 @@
 <?php $currentTitle = 'CONLEY'; include'inc/html-top.inc';?>
-    <header>
-  <?php include'inc/nav.inc';?>
-</header>
+
   
   <div class=headerbox>    
       <header><title>Women In CS - Conley</title></header>
@@ -9,7 +7,8 @@
       <h1>Conley Ernest</h1>
     </header>
   </div>
-    
+      <?php include'inc/nav.inc';?>
+
 
     <!-- YW: Side-By-Side of article and aside content and make sure that both look visually different with contrast.
     Also, I think article content should be more "focus"ed. Still, the pattern should be "Z" pattern. -->
