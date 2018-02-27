@@ -1,17 +1,15 @@
-<?php include'includes/html-top.inc';?>
+<?php $currentTitle = 'HOME'; include'inc/html-top.inc';?>
   <header>
-<?php include'includes/links.inc';?>
-  <title>Team Tokyo's Assignment 3</title>
-    <meta charset="utf-8">
-  	<title>Women In CSC - Team Tokyo Assignment 03</title>
-  </header>
-  <body>
+  <?php include'inc/nav.inc';?>
+</header>
+
     <div class=headerbox>    
       <header>
         <h1>Women In Computer Science</h1>
         <h5>Team Tokyo Assignment 03</h5>
       </header>
-    <!-- YW: Navigation Bar -->
+
+
    </div>
     <?php include'includes/nav.inc';?>
       <!-- YW: Like a newspaper, 3 columns representing each student with photo,
@@ -42,11 +40,11 @@
         <div><!--div.about-->
     </div><!--div.container-->
     </article>
+
+      <?php include'inc/scripts.inc';?>
 <footer>
-  <?php include'includes/scripts.inc';?>
-  <?php include'includes/footer.inc';?>
+  <?php include'inc/footer.inc';?>
 </footer>
-    <!-- YW: JS Links -->
-    <!-- YW: Footer -->
+
   </body>
 </html>
