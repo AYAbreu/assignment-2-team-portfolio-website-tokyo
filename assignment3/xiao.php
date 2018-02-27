@@ -12,12 +12,9 @@
             <div class="grid-container">
                 <div class="hero">
                     <div class="about">
+                        <img src="images/xiao.png" alt="Xiao">
                         <div class = "article">
                             <h2>Education</h2>
-                            <figure>
-                                <div class="clearfix">
-                                <img class = "img" src="images/xiao.png" alt="Conley" width="180" height="320">
-                            </figure>
                             <p>The reasons why I changed my major were complicated, but mostly because AME was not something I thought it would be. After taking several CS classes, I realized that I am really interested in UI/UX design, 3D modeling, game design, and front-end stuffs. I enjoy seeing the beautiful results that my work turned out to be. I guess I am more of a visual person anyways. Minoring in Philosophy is something that I never thought I would be doing. Taking my first Philosophy class was a complete coincidence - I was just trying to fulfill my minimum credits requirement after dropping one of the classes I took in my freshman year. I feel so happy about this coincidence because I met one of my favorite professors in this university. He made Philosophy so interesting. I always question myself about whether I would choose this path if my first Philosophy professor was not him. I doubt that I would. Philosophy has helped me develop my critical thinking skill and logical processing skill. I feel very proud of my minor because it makes me who I am.</p>
                           </div>
                     </div>
