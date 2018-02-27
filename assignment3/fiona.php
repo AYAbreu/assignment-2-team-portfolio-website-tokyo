@@ -1,6 +1,9 @@
 <?php $currentTitle = 'FIONA'; include'inc/html-top.inc';?>
 
-  
+   <header>
+<?php include'inc/nav.inc';?>
+  </header>
+
   <div class=headerbox>    
       <header><title>Women In CS - Fiona</title></header>
     <header>
