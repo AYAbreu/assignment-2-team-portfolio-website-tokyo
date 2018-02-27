@@ -1,7 +1,6 @@
 /* I picked these for my condition to give my page a center focus */
 .grid-container {
 	display: grid;
-	grid-template-columns: auto, auto;
 	margin: 0 1.5% 24px 1.5%;
 	background: linear-gradient(to right, #FFFFFF  0%, #000000 100%);
     border-radius: 4px;
@@ -22,7 +21,7 @@ body {
 	margin: 0;
 	background: linear-gradient(to right, #000000 0%, #FFFFFF 100%);
 	color: #333333;
-	font-family: OCR A Std, monospace; color: white; font-size: 20px;
+	font-family: "OCR A Std", monospace; color: white; font-size: 20px;
 }
 
 /* chose this color to contrast against the black and pop-out */
@@ -40,7 +39,7 @@ h2 {
 	padding: 5px; 
 	background-color: #B0F77B;
 	color: #000000;
-	font-family: OCR A Std, monospace, serif;
+	font-family: "OCR A Std", monospace, serif;
 	text-align: center;
 }
 h3 {
@@ -49,7 +48,7 @@ h3 {
 	margin: 0 0 10px 0;
 	padding: 5px; 
 	color: #000000;
-	font-family: OCR A Std, monospace, serif;
+	font-family: "OCR A Std", monospace, serif;
 	text-align: center;
 	border-bottom: 1px solid #B0F77B;
 
@@ -60,7 +59,7 @@ h4 {
 	margin: 0 0 10px 0;
 	padding: 5px; 
 	color: #000000;
-	font-family: OCR A Std, monospace, serif;
+	font-family: "OCR A Std", monospace, serif;
 	text-align: center;
 	border-bottom: 1px solid #B0F77B;
 
@@ -71,11 +70,11 @@ h5 {
 	margin: 0 0 10px 0;
 	padding: 5px; 
 	color: #000000;
-	font-family: OCR A Std, monospace, serif;
+	font-family: "OCR A Std", monospace, serif;
 	text-align: center;
 }
 p { 
-	font-family: Andale Mono, monospace;
+	font-family: "Andale Mono", monospace;
 	margin: 0 1.5% 24px 1.5%; 
 	border: 5px;
 }
@@ -91,21 +90,20 @@ a:hover { color: #B0F77B;}
 a:hover img { opacity: 0.5; }
 
 .content {
--webkit-box-shadow: 2px 2px 5px 0 #aaaaaa;
 box-shadow: 2px 2px 5px 0 #aaaaaa;
 }
 
 /*	*************************************
 	Layout
 	************************************* */
-article { 
+.article { 
 	display: table-cell;
 	background-size: cover;
 	width: 85%; 
 	padding: 20px;
 	margin: 0 auto;
 }
-article p { 
+.article p { 
 	background-color: #000000;
 	padding: 5px; 
 	margin: 5px;
@@ -113,12 +111,11 @@ article p {
 /* I aligned the text to center to prevent overlay */
 footer { 
 	background-color: #000000;
-	padding: auto;
 	text-align: center;  
 	padding: 10px;
 }
 
-article figure {
+.article figure {
   text-align: right;
   text-transform: uppercase;
   padding: 10px;
