@@ -5,12 +5,17 @@
             <h1>Women In Computer Science</h1>
             <h5>Team Tokyo Assignment 03</h5>
         </header>
+        <!-- YW: Navigation Bar-->
 
         <?php include'inc/nav.inc';?>
 
     </div>
    
     <div class="grid-container">
+        <!-- YW: Like a newspaper, 3 columns representing each student with photo,
+      and the link such as "Read More" that links directly to the accroding student.-->
+      <!-- YW: For the JS plugin, I think it may be good to have photo pops out when clicked.
+      If you have any suggestion, please let me know. -->
         <div class="slider">
             <img src="images/conley.png" alt="Conley">
             <img src="images/fiona.png" alt="Conley">
@@ -30,7 +35,7 @@
         </div>
     </div>
 
-
+    <!-- YW: JS Links -->
     <?php include'inc/scripts.inc';?>
         <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
         <script>
@@ -42,6 +47,7 @@
         <script>
             $('.slider').sss();
         </script>
+    <!-- YW: Footer -->
             <?php include'inc/footer.inc';?>
 
         </body>

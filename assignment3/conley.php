@@ -6,6 +6,13 @@
         </header>
     </div>
 
+    <!-- YW: Navigation Bar -->
+
+    <!-- YW: Side-By-Side of article and aside content and make sure that both look visually different with contrast.
+    Also, I think article content should be more "focus"ed. Still, the pattern should be "Z" pattern. -->
+    <!-- YW: Image should be fit with article somewhere -->
+    <!-- YW: If possible, aside content may have different font/typeface but not necessarily as long as it is contrast from other contents. -->
+
     <?php include'inc/nav.inc';?>
 
         <div class = "article"> 
@@ -32,7 +39,9 @@
             </div>
             </div>
 
+            <!-- YW: JS Links -->
             <?php include'inc/scripts.inc';?>
+            <!-- YW: Footer -->
             <?php include'inc/footer.inc';?>
             
                 </body>
