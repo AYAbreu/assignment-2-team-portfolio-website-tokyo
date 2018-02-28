@@ -6,3 +6,5 @@ Coder: Xiao Cheng
 Design Artist: Isiah Pule
 
 JS Plug-In: sss.js, responsiveslides.js, menuhighlighter.js
+
+Summary: Website about Women Computer Science major.
