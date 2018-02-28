@@ -5,9 +5,9 @@
     <div>
       <ul>
         <li><a href="index.php">Home</a></li>
-        <li><a href="Conley.php">Conley</a></li>
-        <li><a href="Fiona.php">Fiona</a></li>
-        <li><a href="Xiao.php">Xiao</a></li>
+        <li><a href="conley.php">Conley</a></li>
+        <li><a href="fiona.php">Fiona</a></li>
+        <li><a href="xiao.php">Xiao</a></li>
       </ul>
     </div>
 </nav>
